@@ -1,0 +1,23 @@
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\bin\Debug\Proyecto Final Katherin Soto.exe.config
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\bin\Debug\Proyecto Final Katherin Soto.exe
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\bin\Debug\Proyecto Final Katherin Soto.pdb
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto Final Katherin Soto.csprojAssemblyReference.cache
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto_Final_Katherin_Soto.Form1.resources
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto_Final_Katherin_Soto.Properties.Resources.resources
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto Final Katherin Soto.csproj.GenerateResource.cache
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto Final Katherin Soto.csproj.CoreCompileInputs.cache
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto Final Katherin Soto.exe
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto Final Katherin Soto.pdb
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\bin\Debug\Proyecto Final Katherin Soto.exe.config
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\bin\Debug\Proyecto Final Katherin Soto.exe
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\bin\Debug\Proyecto Final Katherin Soto.pdb
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto Final Katherin Soto.csprojAssemblyReference.cache
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto_Final_Katherin_Soto.Form1.resources
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto_Final_Katherin_Soto.Properties.Resources.resources
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto Final Katherin Soto.csproj.GenerateResource.cache
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto Final Katherin Soto.csproj.CoreCompileInputs.cache
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto Final Katherin Soto.exe
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto Final Katherin Soto.pdb
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto_Final_Katherin_Soto.Cliente.resources
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto_Final_Katherin_Soto.Prestamos.resources
+C:\Users\katso\Desktop\Prog 1 bismarrk\Proyecto Final Katherin Soto\Proyecto Final Katherin Soto\obj\Debug\Proyecto_Final_Katherin_Soto.Principal.resources
